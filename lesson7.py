@@ -35,3 +35,46 @@ print(txt)
 
 txt = f"The price is 20 * 59 dollars"
 print(txt)
+
+
+#Python - Escape Characters
+txt = "We are the so-called \"Vikings\" from the north."
+print(txt)
+
+#txt = "Hello \n  World!"
+#print(txt) 
+txt = "Hello\tWorld!"
+print(txt) 
+
+#Python - String Methods
+txt = "hello, and welcome to my world."
+x = txt.capitalize()
+print (x)
+txt = "hello, and welcome to my world. "
+x = txt.title()
+print (x)
+txt = "Hello, And Welcome To My World!"
+x = txt.casefold()
+print(x)
+
+
+txt = "Hello, And Welcome To My World!"
+x = txt.lower()
+print(x)
+
+
+txt = "banana"
+x = txt.center(20)
+print(x)
+
+
+
+
+txt = "banana"
+x = txt.center(20,"*")
+print(x)
+
+
+txt = "I love apples, apple are my favorite fruit"
+x = txt.count("apple")
+print(x)
