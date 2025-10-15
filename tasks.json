@@ -1,10 +1,22 @@
 [
-    {
-        "task": "python lecture",
-        "done": true
-    },
-    {
-        "task": "breakfast",
-        "done": false
-    }
+  {
+    "task": "python lecture",
+    "done": false
+  },
+  {
+    "task": "breakfast",
+    "done": false
+  },
+  {
+    "text": "فطور",
+    "done": false
+  },
+  {
+    "text": "فطور",
+    "done": false
+  },
+  {
+    "text": "نةبىيسنبسيةب",
+    "done": false
+  }
 ]
