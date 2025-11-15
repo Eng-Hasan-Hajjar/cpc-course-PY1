@@ -1,7 +1,0 @@
-00000
-fgbfdg1
-fgbfdg2
-fgbfdg3
-fgbfdg4
-fgbfdg5
-Now the file has more content!
