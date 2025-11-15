@@ -75,3 +75,4 @@ if x < 0:
 x = 5
 if not type(x) is int:
  raise TypeError("Only integers are allowed")
+
